@@ -1,20 +1,20 @@
 # Krull Layout
 
-United States-International layout customized to better meet the needs of programming and typing texts in Portuguese (pt-br).
+O layout United States-International customizado para programar e escrever textos em Português (pt-br).
 
-### The Layout
+### O Layout
 
 ![Krull Layout](/images/krull-layout.jpg)
 
-### Prerequesites
+### Pré-requesitos
 
 * Windows 10.
 
-### Getting Started
-1. Download the repository.
-2. Run the setup.exe in order to install.
-3. Restart the Windows.
-4. Press Windows key + Space to switch input method to English (United States) krull keyboard.
+### Instalação
+1. Faça o download do repositório.
+2. Execute o setup.exe para instalar.
+3. Reinicie o Windows.
+4. Pressione tecla Windows + Spaço e troque o layout para "English (United States) krull keyboard".
 
 
 ### Keys
