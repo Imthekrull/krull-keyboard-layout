@@ -4,7 +4,7 @@ O layout United States-International customizado para melhor programar e escreve
 
 ### O Layout
 
-![Krull Layout](/images/krull-layout.jpg)
+![Krull Layout](/images/keykrull-layout.jpg)
 
 ### Pré-requesitos
 
