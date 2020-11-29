@@ -1,6 +1,6 @@
 # Krull Layout
 
-O layout United States-International customizado para programar e escrever textos em Português (pt-br).
+O layout United States-International customizado para melhor programar e escrever textos em Português (pt-br).
 
 ### O Layout
 
@@ -14,7 +14,7 @@ O layout United States-International customizado para programar e escrever texto
 1. Faça o download do repositório.
 2. Execute o setup.exe para instalar.
 3. Reinicie o Windows.
-4. Pressione tecla Windows + Spaço e troque o layout para "English (United States) krull keyboard".
+4. Pressione tecla Windows + Spaço e troque o layout para "English (United States) keykrull keyboard".
 
 
 ### Keys
